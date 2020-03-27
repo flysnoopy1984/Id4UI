@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Id4UI", "Id4UI\Id4UI.csproj", "{046A21E0-F5EF-46AE-9843-00123B36AADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046A21E0-F5EF-46AE-9843-00123B36AADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046A21E0-F5EF-46AE-9843-00123B36AADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046A21E0-F5EF-46AE-9843-00123B36AADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046A21E0-F5EF-46AE-9843-00123B36AADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77B0E28A-93C0-4B90-BFD3-66644F7D5682}
+	EndGlobalSection
+EndGlobal
